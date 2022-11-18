@@ -1,0 +1,12 @@
+# REST API with Node JS / Express / MongoDB
+
+This REST API app will provide basic CRUD operations without authentication.
+Node JS will be used as the backend/runtime environment using the express framework.
+
+## Pre-requisites
+- express
+- mongoose
+- dotenv - setup of mongoDB variables (connect with atlas account)
+- nodemon
+
+
